@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\source\repos\Wordle Lite\src\Main.cpp(54,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\source\repos\Wordle Lite\src\Main.cpp : fatal error C1128: number of sections exceeded object file format limit: compile with /bigobj
